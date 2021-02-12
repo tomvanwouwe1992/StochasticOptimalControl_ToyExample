@@ -14,4 +14,9 @@ The simulated movement can be thought of as a point to point reaching movement w
 - In the presence of motor noise and a feedback controller avoiding the obstacle with a specified certainty (e.g. 95%) requires offsetting the trajectory from the obstacle. The offset can be less however than in the open-loop controller. Under a feedback controller, the end-point variability can be controlled as well.
 
 
-![alt text](https://github.com/tomvanwouwe1992/StochasticOptimalControl_ToyExample/blob/master/nominalSolution.jpg)
+Optimal open-loop deterministic trajectory and forward simulations with optimal deterministic controller in a stochastic environment:
+![alt text](https://github.com/tomvanwouwe1992/StochasticOptimalControl_ToyExample/blob/master/nominalSolution.pdf)
+
+
+Optimal open-loop and feedback controlled stochastic trajectory and forward simulations with optimal controllers in a stochastic environment:
+![alt text](https://github.com/tomvanwouwe1992/StochasticOptimalControl_ToyExample/blob/master/stochasticSolutionOLvsFB.pdf)
