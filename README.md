@@ -15,8 +15,10 @@ The simulated movement can be thought of as a point to point reaching movement w
 
 
 Optimal open-loop deterministic trajectory and forward simulations with optimal deterministic controller in a stochastic environment:
+
 ![nominal solution](https://github.com/tomvanwouwe1992/StochasticOptimalControl_ToyExample/blob/master/nominalSolution.jpg)
 
 
 Optimal open-loop and feedback controlled stochastic trajectory and forward simulations with optimal controllers in a stochastic environment:
+
 ![stochastic solution](https://github.com/tomvanwouwe1992/StochasticOptimalControl_ToyExample/blob/master/stochasticSolutionOLvsFB.jpg)
